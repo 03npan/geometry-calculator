@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 11 23:01:20 2018
-
-@author: Nathan
-"""
-# Nathan Pan
-# 7/10/2018
-# Purpose: Geometry calculator using programmer-defined functions, while loops, and if/elif/else statements
-
 #CUBE VOLUME
 def calcCubeVol(side):
     vol = pow(side, 3)
